@@ -1,2 +1,4 @@
-# Airflow-ETL-Movies-Fetch-Transform-and-Load-IMDb-Data
-A data engineering project demonstrating the use of Apache Airflow for building an ETL pipeline. The project fetches top movie data from an API, transforms it for insights, and loads the data into a PostgreSQL database, all running within a Dockerized environment.
+# Airflow ETL: Fetch, Transform, and Load IMDb Data
+
+This project demonstrates how to build a robust ETL pipeline using Apache Airflow. The pipeline extracts IMDb's top movie data from an API, transforms the data for analysis, and loads it into a PostgreSQL relational database. The entire application is containerized using Docker for easy deployment and scalability.
+
